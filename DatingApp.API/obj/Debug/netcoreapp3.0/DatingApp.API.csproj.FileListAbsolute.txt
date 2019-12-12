@@ -49,3 +49,9 @@
 /Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
 /Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Data/UserSeedData.json
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
