@@ -55,3 +55,4 @@
 /Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
 /Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.dll
 /Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/danielfilion/Documents/0TubersLand/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/CloudinaryDotNet.dll
